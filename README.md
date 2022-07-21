@@ -1,1 +1,1 @@
-# xiaomi-himo
+# learning project "Xiaomi Himo"
